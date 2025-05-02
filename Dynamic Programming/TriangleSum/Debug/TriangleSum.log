@@ -1,0 +1,5 @@
+﻿  TriangleSum.cpp
+C:\Users\Dell\Documents\GitHub\Design-and-Analysis-of-Algorithms\Dynamic Programming\TriangleSum\TriangleSum.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\Documents\GitHub\Design-and-Analysis-of-Algorithms\Dynamic Programming\TriangleSum\TriangleSum.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\Documents\GitHub\Design-and-Analysis-of-Algorithms\Dynamic Programming\TriangleSum\TriangleSum.cpp(86,15): warning C4018: '<': signed/unsigned mismatch
+  TriangleSum.vcxproj -> C:\Users\Dell\Documents\GitHub\Design-and-Analysis-of-Algorithms\Dynamic Programming\TriangleSum\Debug\TriangleSum.exe
