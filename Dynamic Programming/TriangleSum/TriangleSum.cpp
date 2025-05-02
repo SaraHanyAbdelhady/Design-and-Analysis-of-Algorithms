@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-// Modified function to return both the max sum and the path
+//function to return both the max sum and the path
 pair<int, vector<int>> findMaxPathSum(vector<vector<int>>& triangle, int levels) {
     int rows = levels;
     vector<vector<int>> dp(rows, vector<int>(rows, 0));
